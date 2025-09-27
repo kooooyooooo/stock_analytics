@@ -1,0 +1,11 @@
+black>=23.7
+isort>=5.12
+flake8>=6.1
+ruff>=0.1.0
+pytest>=7.4
+pytest-cov>=4.1
+mypy>=1.5
+pre-commit>=3.3
+nbstripout>=0.6
+jupyter>=1.0
+
