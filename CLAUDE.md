@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Language Policy
 - **Thinking / Reasoning**: English
 - **Conversation with user**: Japanese
-- **Deliverables (code, documents, templates, configs, etc.)**: English
+- **Deliverables (code, documents, templates, configs, etc.)**: Japanese
 
 This ensures clarity in internal reasoning while keeping communication natural for the user, and producing standardized, professional outputs.
 
